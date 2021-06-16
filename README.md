@@ -5,7 +5,7 @@ A suite of measuring tools (dependent on B9PS and Tweakscale) for KSP
 A shape-changer. Its options are: Cube; Sphere; Slab; Cylinder; Disc.
 
 ## Multi Type B
-A combined compass and protractor. Its options include:
+A combined Compass and Protractor. Its options include:
 * Master toggle: Compass; Protractor; Both.
 * Deployable compass arm: up to 100 Degrees.
 * Symmetry arms: 3x, 5x, 7x, 9x, Radians (1, 2, 3, Pi).
