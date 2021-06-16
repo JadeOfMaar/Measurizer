@@ -13,7 +13,14 @@ A combined compass and protractor. Its options include:
 * Arc unit markers: Degrees (1, 5, 10).
 
 ## Ruler Type A
-A ruler that measures in factors of 1.25m and has toggle-able lengths up to 10m.
+A ruler that measures in factors of 1.25m and has toggle-able lengths up to 10m. Its options are:
+* Lengths/Segments of 1.25m up to 10m.
+* Units: 
+  * Eighths (0.156m, 0.313m, 0.625m).
 
 ## Ruler Type B
-A ruler that measures in factors of 1m and has toggle-able lengths up to 10m.
+A ruler that measures in factors of 1m and has toggle-able lengths up to 10m. Its options are:
+* Lengths/Segments of 1m up to 10m.
+* Units: 
+  * Eighths (0.125m, 0.25m, 0.5m).
+  * Tenths (0.1m, 0.5m).
