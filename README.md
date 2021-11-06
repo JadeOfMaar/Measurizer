@@ -1,3 +1,5 @@
+![screenshot](https://i.imgur.com/bMsPoht.png)
+
 # Measurizer
 A suite of measuring tools (dependent on B9PS and Tweakscale) for KSP
 
@@ -12,13 +14,13 @@ A combined Compass and Protractor. Its options include:
 * Arc highlight: Degrees (7, 22, 45, 72), Radians  (1, 2, 3, Pi).
 * Arc unit markers: Degrees (1, 5, 10).
 
-## Ruler Type A
+## Ruler Imperial™
 A ruler that measures in factors of 1.25m and has toggle-able lengths up to 10m. Its options are:
 * Lengths/Segments of 1.25m up to 10m.
 * Units: 
   * Eighths (0.156m, 0.313m, 0.625m).
 
-## Ruler Type B
+## Ruler Metric™
 A ruler that measures in factors of 1m and has toggle-able lengths up to 10m. Its options are:
 * Lengths/Segments of 1m up to 10m.
 * Units: 
