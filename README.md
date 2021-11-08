@@ -1,5 +1,5 @@
 ![screenshot](https://i.imgur.com/bMsPoht.png)
-![screenshot](https://i.imgur.com/HGUoIV0.png)
+![screenshot](https://i.imgur.com/GVPqdlf.png)
 
 # Measurizer
 A suite of measuring tools (dependent on B9PS and Tweakscale) for KSP
