@@ -39,4 +39,4 @@ A ruler that measures in steps of 0.1m with clear 1m marks, and indicates KSP si
 * Variant 2: Stretchy and controlled by the deploy slider. Spans 0.6m ~ 10m.
 
 ## Ruler Beam
-A tiny tuler, stackable, which measures with 0.01m precision up to 2m and 0.1m precision beyond that. Its beams are emissive and colored with inspiration from color temperature. The beam length options are 1m, 5m, 10m, 50m.
+A tiny ruler, stackable, which measures with 0.01m precision up to 2m and 0.1m precision beyond that. Its beams are emissive and colored with inspiration from color temperature. The beam length options are 1m, 5m, 10m, 50m.
